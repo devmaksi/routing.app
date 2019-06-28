@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: routing.app
+---
+testFramework: junit
+sourceLanguage: java
